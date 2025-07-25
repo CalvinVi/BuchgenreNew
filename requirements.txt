@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+requests
+torch
+transformers==4.44.0
+accelerate==0.33.0
+datasets
+nltk
+spacy
+jupyterlab
+ipykernel
